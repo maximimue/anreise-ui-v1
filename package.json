@@ -10,10 +10,13 @@
   },
   "dependencies": {
     "autoprefixer": "10.4.15",
+    "nanoid": "^4.0.2",
     "next": "13.4.18",
     "postcss": "8.4.28",
     "react": "18.2.0",
     "react-dom": "18.2.0",
-    "tailwindcss": "3.3.3"
+    "reactflow": "^11.8.2",
+    "tailwindcss": "3.3.3",
+    "zustand": "^4.4.1"
   }
 }
